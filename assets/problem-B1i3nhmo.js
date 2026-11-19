@@ -1,0 +1,1 @@
+import{t as e}from"./http-response-6J-haAVq.js";import{t}from"./mockUser-BhRSyHdp.js";var n=(t,n,r)=>e.json({status:t,detail:r,code:n},{status:t}),r=()=>n(401,`UNAUTHORIZED`,`로그인이 필요합니다`);function i(e,n){let r=t(e.headers.get(`Authorization`));if(!(!r||r.expiresAt!==void 0&&r.expiresAt<=n))return r}export{i as n,r,n as t};

@@ -1,0 +1,1 @@
+var e=`구역`,t=e=>e.trim()||`구역`;export{t as n,e as t};

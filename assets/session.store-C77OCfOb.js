@@ -1,0 +1,1 @@
+import{t as e}from"./react-C1VoicNr.js";var t=[`ADMIN`,`FOREMAN`,`VIEWER`],n=e()((e,t)=>({session:void 0,signIn:t=>e({session:t}),signOut:()=>e({session:void 0}),signOutIfCurrent:n=>{t().session?.accessToken===n&&e({session:void 0})}}));export{n,t};

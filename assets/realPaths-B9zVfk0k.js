@@ -1,0 +1,1 @@
+function e(e,t){return e.filter(e=>{let{path:n}=e.info;if(typeof n!=`string`)return!0;let r=n.replace(/^\*/,``);return!t.some(e=>r===e||r.startsWith(`${e}/`))})}export{e as withoutRealPaths};

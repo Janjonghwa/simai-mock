@@ -1,0 +1,1 @@
+import{n as e}from"./session.store-C77OCfOb.js";function t(){return e(e=>e.session?.user.role)}export{t};

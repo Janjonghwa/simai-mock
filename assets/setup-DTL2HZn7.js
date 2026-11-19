@@ -1,0 +1,1 @@
+import{t as e}from"./jsx-runtime-COQnYV8f.js";import{t}from"./setup-Dv7c1J4r.js";import{t as n}from"./SetupPage-D7XjH_G-.js";var r=e();function i(){let{workUnitId:e}=t.useSearch();return(0,r.jsx)(n,{workUnitId:e},e??``)}export{i as component};

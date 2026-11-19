@@ -1,0 +1,1 @@
+export{t as createPeopleNamesMock,n as defaultHealthPeopleSnapshot}from"./peopleNames-B3VDI9p8.js";

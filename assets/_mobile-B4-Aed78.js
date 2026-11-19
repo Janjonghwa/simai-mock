@@ -1,0 +1,1 @@
+import{t as e}from"./jsx-runtime-COQnYV8f.js";import{n as t}from"./Match-EnZ3eAEl.js";var n=e();function r(){return(0,n.jsx)(`div`,{className:`min-h-dvh bg-background text-foreground`,children:(0,n.jsx)(t,{})})}export{r as component};
