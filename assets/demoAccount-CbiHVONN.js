@@ -1,1 +1,0 @@
-import{n as e}from"./session.store-C77OCfOb.js";var t=[`demo`,`1`];function n(e){return e!==void 0&&t.includes(e)}function r(){return e(e=>n(e.session?.user.id))}export{r as n,n as t};
