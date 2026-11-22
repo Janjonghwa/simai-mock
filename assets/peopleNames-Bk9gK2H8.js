@@ -1,1 +1,0 @@
-export{t as createPeopleNamesMock,n as defaultHealthPeopleSnapshot}from"./peopleNames-CKVLKsat.js";
